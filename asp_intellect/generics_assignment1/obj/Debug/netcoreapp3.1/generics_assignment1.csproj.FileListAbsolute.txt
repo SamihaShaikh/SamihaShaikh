@@ -1,0 +1,13 @@
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.AssemblyInfoInputs.cache
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.AssemblyInfo.cs
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.csproj.CoreCompileInputs.cache
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.csproj.AssemblyReference.cache
+E:\asp_intellect\generics_assignment1\bin\Debug\netcoreapp3.1\generics_assignment1.exe
+E:\asp_intellect\generics_assignment1\bin\Debug\netcoreapp3.1\generics_assignment1.deps.json
+E:\asp_intellect\generics_assignment1\bin\Debug\netcoreapp3.1\generics_assignment1.runtimeconfig.json
+E:\asp_intellect\generics_assignment1\bin\Debug\netcoreapp3.1\generics_assignment1.runtimeconfig.dev.json
+E:\asp_intellect\generics_assignment1\bin\Debug\netcoreapp3.1\generics_assignment1.dll
+E:\asp_intellect\generics_assignment1\bin\Debug\netcoreapp3.1\generics_assignment1.pdb
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.dll
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.pdb
+E:\asp_intellect\generics_assignment1\obj\Debug\netcoreapp3.1\generics_assignment1.genruntimeconfig.cache

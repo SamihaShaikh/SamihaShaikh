@@ -1,0 +1,2 @@
+E:\asp_intellect\linq_crud\crud_linq\crud_linq\obj\Debug\crud_linq.csproj.AssemblyReference.cache
+E:\asp_intellect\linq_crud\crud_linq\crud_linq\obj\Debug\crud_linq.csproj.CoreCompileInputs.cache

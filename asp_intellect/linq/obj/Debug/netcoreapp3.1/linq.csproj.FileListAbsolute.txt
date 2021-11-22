@@ -1,0 +1,13 @@
+E:\asp_intellect\linq\bin\Debug\netcoreapp3.1\linq.exe
+E:\asp_intellect\linq\bin\Debug\netcoreapp3.1\linq.deps.json
+E:\asp_intellect\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.json
+E:\asp_intellect\linq\bin\Debug\netcoreapp3.1\linq.runtimeconfig.dev.json
+E:\asp_intellect\linq\bin\Debug\netcoreapp3.1\linq.dll
+E:\asp_intellect\linq\bin\Debug\netcoreapp3.1\linq.pdb
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.csproj.AssemblyReference.cache
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.AssemblyInfoInputs.cache
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.AssemblyInfo.cs
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.csproj.CoreCompileInputs.cache
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.dll
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.pdb
+E:\asp_intellect\linq\obj\Debug\netcoreapp3.1\linq.genruntimeconfig.cache

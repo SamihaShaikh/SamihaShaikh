@@ -1,0 +1,16 @@
+E:\asp_intellect\generics\bin\Debug\net5.0\generics.exe
+E:\asp_intellect\generics\bin\Debug\net5.0\generics.deps.json
+E:\asp_intellect\generics\bin\Debug\net5.0\generics.runtimeconfig.json
+E:\asp_intellect\generics\bin\Debug\net5.0\generics.runtimeconfig.dev.json
+E:\asp_intellect\generics\bin\Debug\net5.0\generics.dll
+E:\asp_intellect\generics\bin\Debug\net5.0\ref\generics.dll
+E:\asp_intellect\generics\bin\Debug\net5.0\generics.pdb
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.csproj.AssemblyReference.cache
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.AssemblyInfoInputs.cache
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.AssemblyInfo.cs
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.csproj.CoreCompileInputs.cache
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.dll
+E:\asp_intellect\generics\obj\Debug\net5.0\ref\generics.dll
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.pdb
+E:\asp_intellect\generics\obj\Debug\net5.0\generics.genruntimeconfig.cache

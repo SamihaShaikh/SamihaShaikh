@@ -1,0 +1,13 @@
+E:\asp_intellect\dlegates\dlegates\bin\Debug\netcoreapp3.1\dlegates.exe
+E:\asp_intellect\dlegates\dlegates\bin\Debug\netcoreapp3.1\dlegates.deps.json
+E:\asp_intellect\dlegates\dlegates\bin\Debug\netcoreapp3.1\dlegates.runtimeconfig.json
+E:\asp_intellect\dlegates\dlegates\bin\Debug\netcoreapp3.1\dlegates.runtimeconfig.dev.json
+E:\asp_intellect\dlegates\dlegates\bin\Debug\netcoreapp3.1\dlegates.dll
+E:\asp_intellect\dlegates\dlegates\bin\Debug\netcoreapp3.1\dlegates.pdb
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.csproj.AssemblyReference.cache
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.AssemblyInfoInputs.cache
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.AssemblyInfo.cs
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.csproj.CoreCompileInputs.cache
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.dll
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.pdb
+E:\asp_intellect\dlegates\dlegates\obj\Debug\netcoreapp3.1\dlegates.genruntimeconfig.cache

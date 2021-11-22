@@ -1,0 +1,12 @@
+E:\asp_intellect\generics\bin\Debug\netcoreapp3.1\generics.exe
+E:\asp_intellect\generics\bin\Debug\netcoreapp3.1\generics.deps.json
+E:\asp_intellect\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.json
+E:\asp_intellect\generics\bin\Debug\netcoreapp3.1\generics.runtimeconfig.dev.json
+E:\asp_intellect\generics\bin\Debug\netcoreapp3.1\generics.dll
+E:\asp_intellect\generics\bin\Debug\netcoreapp3.1\generics.pdb
+E:\asp_intellect\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfoInputs.cache
+E:\asp_intellect\generics\obj\Debug\netcoreapp3.1\generics.AssemblyInfo.cs
+E:\asp_intellect\generics\obj\Debug\netcoreapp3.1\generics.csproj.CoreCompileInputs.cache
+E:\asp_intellect\generics\obj\Debug\netcoreapp3.1\generics.dll
+E:\asp_intellect\generics\obj\Debug\netcoreapp3.1\generics.pdb
+E:\asp_intellect\generics\obj\Debug\netcoreapp3.1\generics.genruntimeconfig.cache
